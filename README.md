@@ -124,7 +124,7 @@ You can contribute to this project with the following steps:
 3. Create a poetry environment 
    (this project use the [poetry](https://python-poetry.org/) for dependency management)
    ```shell
-   peotry install 
+   poetry install 
    ```
 4. Make a new git branch where you will apply the changes
    ```shell
